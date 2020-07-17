@@ -14,11 +14,14 @@ Gameplay<br/>
 [x] - Menambah event penambahan peluru saat melewati item ammo<br/>
 [x] - Menambah berbagai object box baru<br/>
 [x] - Menambah event destroy peluru saat menabrak box / wall. Opsional peluru di destroy juga saat tidak terlihat di view game / set jarak max untuk destroy.<br/>
-[ ] - Menambah karakter enemy beserta variabel<br/>
-[ ] - Menambah health bar enemy<br/>
-[ ] - Menambah event pengurangan health musuh saat tertembak player<br/>
-[ ] - Menambah behavior setiap n detik menembak peluru<br/>
-[ ] - Menambah event pengurangan health player saat tertembak enemy<br/>
+[x] - Menambah karakter enemy beserta variabel<br/>
+[x] - Menambah health bar enemy<br/>
+[x] - Menambah event pengurangan health musuh saat tertembak player<br/>
+[x] - Menambah event enemy mati saat hp habis<br/>
+[x] - Menambah behavior enemy setiap n detik menembak peluru<br/>
+[x] - Menambah event pengurangan health player saat tertembak enemy<br/>
+[x] - Menambah event player mati saat tertembak enemy<br/>
+[ ] - Menambah UI saat player mati<br/>
 [ ] - Resize ukuran setiap material supaya view lebih luas<br/>
 [ ] - Membuat map lengkap dengan obstacle, item, dan enemy<br/>
 [ ] - Menambah fungsi supaya setiap player mati, score total direcord kedalam<br/>
