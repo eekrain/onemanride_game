@@ -21,17 +21,9 @@ Gameplay<br/>
 [x] - Menambah behavior enemy setiap n detik menembak peluru<br/>
 [x] - Menambah event pengurangan health player saat tertembak enemy<br/>
 [x] - Menambah event player mati saat tertembak enemy<br/>
-[x] - Menambah UI saat player mati<br/>
-[ ] - Resize ukuran setiap material supaya view lebih luas<br/>
+[x] - Resize ukuran setiap material supaya view lebih luas<br/>
+[x] - Menambah UI saat player mati, beserta rank ditampilkan<br/>
 [ ] - Membuat map lengkap dengan obstacle, item, dan enemy<br/>
-[ ] - Menambah fungsi supaya setiap player mati, score total direcord kedalam<br/>
 <br/>
 ============================================================================================<br/>
-<br/>
-UI Game<br/>
-<br/>
-[ ] - Membuat layout pemilihan karakter<br/>
-[ ] - Meng-inisialisasi gameplay settings sesuai dari karakter yang dipilih<br/>
-[ ] - Menu options dirubah menjadi highest score. Implementasi array 1d dengan 2 variabel, score dan date.(Skip kalau sulit)<br/>
-
 Nek list todo ne ono sek kurang lebokke wae. 
