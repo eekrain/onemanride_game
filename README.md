@@ -1,10 +1,12 @@
-# onemanride_game
-Game fps 2d. Built with construct 2.<br/>
-<br/>
-============================================================================================<br/>
-<br/>
-Gameplay<br/>
-<br/>
+# One Man Ride
+2D game inspired from Metal Slug. Built with construct 2. You can try it in browser here [ [Play](https://daringfireball.net/projects/markdown/) ]!
+
+## Gallery 
+![Satty-20241225-03:10:44](https://github.com/user-attachments/assets/8d873dc5-26d9-4121-9b88-b7e2631890c2)
+![Satty-20241225-03:11:09](https://github.com/user-attachments/assets/7904fd10-c33b-4249-a558-247489d9bd78)
+![Satty-20241225-03:13:25](https://github.com/user-attachments/assets/28996082-566d-4804-82ce-902e9b528106)
+
+## Tasks
 [x] - Menambah variabel health<br/>
 [x] - Menambah event penambahan nyawa saat melewati item hearth<br/>
 [x] - Menambah variabel peluru<br/>
@@ -23,7 +25,4 @@ Gameplay<br/>
 [x] - Menambah event player mati saat tertembak enemy<br/>
 [x] - Resize ukuran setiap material supaya view lebih luas<br/>
 [x] - Menambah UI saat player mati, beserta rank ditampilkan<br/>
-[ ] - Membuat map lengkap dengan obstacle, item, dan enemy<br/>
-<br/>
-============================================================================================<br/>
-Nek list todo ne ono sek kurang lebokke wae. 
+[x] - Membuat map lengkap dengan obstacle, item, dan enemy<br/>
