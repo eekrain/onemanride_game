@@ -1,5 +1,5 @@
 # One Man Ride
-2D game inspired from Metal Slug. Built with construct 2. You can try it in browser here [ [Play](https://daringfireball.net/projects/markdown/) ]!
+2D game inspired from Metal Slug. Built with construct 2. You can try it in browser here [ [Play](https://www.ardianeka.my.id/onemanride_game/) ]!
 
 ## Gallery 
 ![Satty-20241225-03:10:44](https://github.com/user-attachments/assets/8d873dc5-26d9-4121-9b88-b7e2631890c2)
